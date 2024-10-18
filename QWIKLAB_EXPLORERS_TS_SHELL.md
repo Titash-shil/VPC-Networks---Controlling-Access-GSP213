@@ -8,10 +8,6 @@
 export ZONE=
 ```
 ```
-
-
-
-
 echo ""
 echo ""
 echo "Please export the values."
